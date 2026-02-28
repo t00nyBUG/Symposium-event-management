@@ -20,4 +20,3 @@ The Smart Event Management Portal is a web-based application designed to digitiz
 ge events such as seminars, workshops, symposiums, and technical fests. Traditional event management in many institutions relies heavily on manual registration, physical attendance sheets, and time-consuming certificate distribution, which often leads to errors, inefficiencies, and poor data tracking.
 
 This project provides a centralized digital platform where event organizers can announce events, manage registrations, track participation using QR-based attendance, and automatically generate certificates — all within a single system.<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/9e20e249-8588-43b2-bd3b-117babde29eb" />
-<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/4e2b9194-02eb-4f3b-8aad-cae4287aff0c" />
