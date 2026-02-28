@@ -14,10 +14,12 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-The Smart Event Management Portal is a web-based application designed to digitize and streamline the complete lifecycle of colle<img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/9dc126ac-1c42-42c1-86f4-cbd0eb65fad5" />
-ge events such as seminars, workshops, symposiums, and technical fests. Traditional event management in many institutions relies heavily on manual registration, physical attendance sheets, and time-consuming certificate distribution, which often leads to errors, inefficiencies, and poor data tracking.
+The Smart Event Management Portal is a web-based application designed to digitize and streamline the complete lifecycle of college events such as seminars, workshops, symposiums, and technical fests. Traditional event management in many institutions relies heavily on manual registration, physical attendance sheets, and time-consuming certificate distribution, which often leads to errors, inefficiencies, and poor data tracking.
 
-This project provides a centralized digital platform where event organizers can announce events, manage registrations, track participation using QR-based attendance, and automatically generate certificates — all within a single system.<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/9e20e249-8588-43b2-bd3b-117babde29eb" />
+This project provides a centralized digital platform where event organizers can announce events, manage registrations, track participation using QR-based attendance, and automatically generate certificates — all within a single system.
+<img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/9dc126ac-1c42-42c1-86f4-cbd0eb65fad5" />
+
+<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/9e20e249-8588-43b2-bd3b-117babde29eb" />
 
 <img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/44ff346e-949e-4686-9767-e379b8a61ac8" />
 
