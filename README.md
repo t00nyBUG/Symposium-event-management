@@ -21,4 +21,3 @@ ge events such as seminars, workshops, symposiums, and technical fests. Traditio
 
 This project provides a centralized digital platform where event organizers can announce events, manage registrations, track participation using QR-based attendance, and automatically generate certificates — all within a single system.<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/9e20e249-8588-43b2-bd3b-117babde29eb" />
 <img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/4e2b9194-02eb-4f3b-8aad-cae4287aff0c" />
-<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/350fbf51-3c42-46e6-9f54-a664e5b02938" />
