@@ -1,25 +1,34 @@
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SYMPO - Smart Event Management Portal
 
-Currently, two official plugins are available:
+A modern, highly advanced React web application for college event management. Built specifically to handle event announcements, online registrations, secure attendance, and dynamic certificate generation featuring professional, high-end aesthetics.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+- **Glassmorphism & Dark Mode**: Professional UI design focused on an immersive, premium user experience.
+- **Dynamic Event Dashboard**: Search and filter events in real-time.
+- **Registration Flow**: Secure contextual forms that store attendee names over an underlying state layer.
+- **QR-Based Attendance**: Displays an entry pass to speed up physical check-ins.
+- **Elegant Certificate Engine**: Using `html2canvas`, the app generates a gorgeous web-certificate populated with the user's name and event details, which can be downloaded instantly as a high-resolution PNG image or natively shared (if supported).
 
-## React Compiler
+Tech Stack
+- **React** (Vite)
+- **Vanilla CSS** (Vibrant variables, glassmorphism techniques)
+- **lucide-react** (Iconography)
+- **react-router-dom** (Navigation)
+- **qrcode.react** (Entry ticket QR Generation)
+- **html2canvas** (Certificate image extraction)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Running Locally
 
-## Expanding the ESLint configuration
+Because the `node_modules` folder has been omitted for ease of sharing, you will need to re-install the dependencies before running the application.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Install Dependencies:
+```bash
+npm install
+```
 
+2. Start the Development Server:
+```bash
+npm run dev
+```
 
-The Smart Event Management Portal is a web-based application designed to digitize and streamline the complete lifecycle of college events such as seminars, workshops, symposiums, and technical fests. Traditional event management in many institutions relies heavily on manual registration, physical attendance sheets, and time-consuming certificate distribution, which often leads to errors, inefficiencies, and poor data tracking.
-
-This project provides a centralized digital platform where event organizers can announce events, manage registrations, track participation using QR-based attendance, and automatically generate certificates — all within a single system.
-<img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/9dc126ac-1c42-42c1-86f4-cbd0eb65fad5" />
-
-<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/9e20e249-8588-43b2-bd3b-117babde29eb" />
-
-<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/44ff346e-949e-4686-9767-e379b8a61ac8" />
-
+3. Open exactly as shown in your terminal (usually `http://localhost:5173`) in your browser.
