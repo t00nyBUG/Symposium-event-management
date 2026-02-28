@@ -28,7 +28,15 @@ npm install
 
 2. Start the Development Server:
 ```bash
-npm run dev
+npm run dev<img width="1160" height="822" alt="Certificate_SABITHA_S_S (2)" src="https://github.com/user-attachments/assets/054ab187-8256-4a00-9825-0e8a8ecf2165" />
+
 ```
 
 3. Open exactly as shown in your terminal (usually `http://localhost:5173`) in your browser.
+
+   <img width="1366" height="768" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e192d75e-df8e-497c-9999-baccc903fd7c" />
+<img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/b82d1987-6575-44d3-ba31-e4c8a9b98c17" />
+<img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/8742d574-c6ac-43ea-8de1-0750afbaf418" />
+<img width="1366" height="768" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/f6ec134b-0fb6-4cc7-8119-962587d645d7" />
+<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/5b3d8e6d-9124-4177-9d7a-c42862806616" />
+
